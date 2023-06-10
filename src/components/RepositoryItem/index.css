@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.contain {
+  height: 300px;
+  width: 200px;
+  margin-right: 25px;
+  padding: 20px;
+  background-color: rgb(215, 240, 231);
+  margin: 20px;
+}
+.img {
+  height: 50px;
+}
+
+.name {
+  font-size: 15px;
+}

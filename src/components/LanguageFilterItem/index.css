@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.lang {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  background-color: transparent;
+}
+.button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.button1 {
+  text-decoration: dashed;
+  color: blue;
+  border: solid;
+  border-width: 2px;
+  border-radius: 10px;
+}
+
+.open {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+.img2 {
+  height: 15px;
+  margin: 10px;
+}
